@@ -1,0 +1,11 @@
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\bin\Debug\Weight on Planets.exe.config
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\bin\Debug\Weight on Planets.exe
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\bin\Debug\Weight on Planets.pdb
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight_on_Planets.Form1.resources
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight_on_Planets.Properties.Resources.resources
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.csproj.GenerateResource.cache
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.csproj.CoreCompileInputs.cache
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.exe
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.pdb
+C:\Users\erikp\OneDrive\Desktop\Weight on Planets\Weight on Planets\obj\Debug\Weight on Planets.csproj.AssemblyReference.cache

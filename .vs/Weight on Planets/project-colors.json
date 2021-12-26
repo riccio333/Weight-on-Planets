@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dca407eb-6e89-49f3-8df8-56799b34ae20": {
+      "ProjectGuid": "dca407eb-6e89-49f3-8df8-56799b34ae20",
+      "DisplayName": "Weight on Planets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
